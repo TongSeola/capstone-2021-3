@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 
 class RecycleTypeButton extends StatefulWidget {
   int typeIndex; //버튼 작동 여부 확인을 위한 임의 값
+  int typeIndex2; //버튼 작동 여부 확인을 위한 임의 값
   RecycleTypeButton(this.typeIndex);
 
   _RecycleTypeButton createState() => _RecycleTypeButton(this.typeIndex);
@@ -84,6 +85,7 @@ class _RecycleTypeButton extends State<RecycleTypeButton> {
           )),
       TextButton(
         // 애니메이션을 보여주는 페이지로 이동을 위한 임의 버튼
+        onPressed: () {},
         child: Text('Animation'),
       )
     ]);
