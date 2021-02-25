@@ -40,7 +40,7 @@ Github : [@Aqudi](https://github.com/Aqudi)
 Student ID : 20171618
 E-Mail : dsawt98@kookmin.ac.kr
 Role : 
-Github : [@gychoics](https://github.com/gychoics)
+Github : [@TongSeola](https://github.com/TongSeola)
 
 ```
 
