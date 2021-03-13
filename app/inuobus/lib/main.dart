@@ -43,7 +43,7 @@ class _Frame extends State<Frame> {
 
   final List<Widget> bodyCenter = [
     QRScan(),
-    GoogleMap(),
+    GoogleMapClass(),
     Rank(),
     Item1(),
     Item2()
